@@ -1,0 +1,5 @@
+# mysql user information
+/mysql.cnf
+
+# cache directories
+__pycache__
